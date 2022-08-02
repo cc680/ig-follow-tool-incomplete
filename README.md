@@ -2,17 +2,17 @@
 
 8/1/2022 remake notes:
 
-# CORE FEATURES
+# Features
 - login/logout
 - comparing followers vs following
 - enables automatic following/unfollowing
 - pause, continue, stop
 - allows whitelist of certain accounts to remain unchanged
 
-# DESIGN
+# Design
 - MVC framework
 
-# WORKFLOW
+# Workflow
 - user logs in
 - gets follower, following list 
   - displays stats

@@ -23,3 +23,12 @@
 - pause/continue & stop button
 - refresh data button
 - logout
+
+# Deliverables
+- method of logging in (opening chrome -> taking username/password, 
+loging, delay)
+- method of scraping following/follower list
+  - upload html/json
+  - scrape from html?
+- automate following/unfollowing
+- 

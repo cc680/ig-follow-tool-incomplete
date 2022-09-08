@@ -1,6 +1,7 @@
 # IG-Follow-Tool
 
-8/1/2022 remake notes:
+9/8/2022 remake notes:
+- Based off "ig_scrape_follow_tool," but with a GUI & additional features
 
 # Features
 - login/logout
